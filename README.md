@@ -10,6 +10,7 @@ As a committed Front-End developer, Through code and image optimization, I impro
 ![TypeScript](https://img.shields.io/badge/TypeScript-239120?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-239120?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - 🔭 I’m currently working on Animation and payment integration...
 - 🌱 I’m currently learning Nextjs and TypeScript...
