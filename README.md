@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As a committed Front-End developer, Through code and image optimization, I improve website performance by 30% and raise SEO rankings by 20%.  I enjoy learning, researching, and finding new methods to use my technical skills to solve real-world problems. My goal is to leverage JavaScript,  CSS3, HTML5, and React (Next.js) to create powerful web applications.. I am a grateful person and a remarkable coworker who values people. 
+As a committed Full Stack- Front-End developer, Through code and image optimization, I improve website performance by 30% and raise SEO rankings by 20%.  I enjoy learning, researching, and finding new methods to use my technical skills to solve real-world problems. My goal is to leverage JavaScript,  CSS3, HTML5, and React (Next.js) to create powerful web applications.. I am a grateful person and a remarkable coworker who values people. 
 
 ## Languages And Tools I Have Learned
 
