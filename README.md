@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-As a committed Full Stack- Front-End developer, Through code and image optimization, I improve website performance by 30% and raise SEO rankings by 20%.  I enjoy learning, researching, and finding new methods to use my technical skills to solve real-world problems. My goal is to leverage JavaScript,  CSS3, HTML5, and React (Next.js) to create powerful web applications.. I am a grateful person and a remarkable coworker who values people. 
+Frontend-focused full-stack developer with more three years of hands-on experience building fast, accessible, and responsive web applications using JavaScript,  TypeScript, React, and Next.js. Currently working as a Freelance Software Developer and has served as CTO of an early-stage startup, with end-to-end ownership  of UI development, API integration, and deployment. Skilled at translating functional requirements into clean, performant interfaces and applying AI-assisted  development workflows — including LLM-assisted coding and rapid prototyping — to ship higher-quality software faster. Also building foundational  cybersecurity capability as an Entry-Level Cybersecurity Analyst, having Learn the benefit of multi-factor authentication that cut unauthorized access attempts independently.
+
 
 ## Languages And Tools I Have Learned
 
